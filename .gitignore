@@ -1,0 +1,22 @@
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+.surfpool
+
+# keys and secrets
+id.json
+*-keypair.json
+.env
+.env.*
+
+# my stuff, not theirs
+notes/
+*cheat*sheet*
+*.pdf
+scratch/
+*.mov
+*.mp4
